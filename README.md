@@ -3,7 +3,7 @@
 My name is Atharva Vadodkar and I'm a student. Welcome to my GitHub profile! 
 
 ## About Me
-I'm passionate about learning different language I enjoy  Fitness: Staying active through activities like running, yoga, or weightlifting helps me maintain a healthy body and mind.
+I'm passionate about learning different programing language I enjoy  Fitness: Staying active through activities like running, yoga, or weightlifting helps me maintain a healthy body and mind.
 
 
 ## My Interests
