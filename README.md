@@ -19,7 +19,7 @@ I'm passionate about learning different programing language I enjoy  Fitness: St
 ## Projects
 Here are a few projects I'm proud of:
 -  ProjectG : https://atharva-1304.github.io/projectG/
--  Login page:
+-  Login page:  https://atharva-1304.github.io/login_page/
 - Number Game (java):
 
 ## Get in Touch
